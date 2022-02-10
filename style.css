@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+}
+
+#nav{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 15px;
+}
+
+#nav a{
+margin-right: 11px;
+}
+
+#nav a.topimage{
+    width: 10px;
+    height: 15px;
+    background-color: green;
+    border-radius: 120px;
+}
+
+#middle{
+    margin-top: 190px;
+}
+
+#logo{
+    text-align: center;
+}
+
+#searchbarcontainer{
+    margin-top: 20px;
+    text-align: center;
+}
